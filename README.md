@@ -41,3 +41,4 @@ materialRefreshLayout.setMaterialRefreshListener(new MaterialRefreshListener() {
             
 });
 ```
+![screenshot](https://github.com/ykmeory/MaterialRefreshLayout_ListView/blob/master/screenshot.jpg "截图")
